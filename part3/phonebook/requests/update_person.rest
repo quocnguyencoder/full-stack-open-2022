@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/6353b1e4b4ba0a0284e57a99
+Content-Type: application/json
+
+{
+  "name": "Shadow Hunter",
+  "number": "12-73012893"
+}
